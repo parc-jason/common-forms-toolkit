@@ -51,6 +51,6 @@ npm run all:install
 npm run all:build
 npm run serve
 
-# Open app
+# Open app if python is present
 #
 (! which python) || python -m webbrowser http://localhost:8080/

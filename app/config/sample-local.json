@@ -20,7 +20,7 @@
   },
   "serviceClient": {
     "commonServices": {
-      "password": "<RECACTED>"
+      "password": "<REDACTED>"
     }
   }
 }
